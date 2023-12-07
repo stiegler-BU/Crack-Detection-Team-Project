@@ -6,8 +6,8 @@
 
 
 
-Translated from original source README by Hua Tong:
-
+**Translated from original source README by Hua Tong:
+**
 A mask detection model was trained using YOLOV5
 
 > explanation video from Bilibili：(https://www.bilibili.com/video/BV1YL4y1J7xz)
