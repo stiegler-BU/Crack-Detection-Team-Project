@@ -13,5 +13,7 @@ Regulatory Entities (Local, State, Federal)
 
 **Minimum Viable Product:** Our MVP was to take an existing model and retrain it with a more varied dataset to further refine the model. This dataset would then produce more accurate detection results.
 
+**Primary Project Analyzed and Trained: Yolov5Mode** - In this project the research team developed a model to detect a mask on a person. We piggybacked off this project, but modified and refined the model to detect cracks in images. We trained a model using a new dataset with different labels. We found a varied dataset of images with various sizes, shapes, and colors of cracks on different surfaces. 
 
+Secondary Project Analyzed: While not the primary focus of the project, we did compare our enhanced trained Yolo5 Model with a model trained using the DeepCrack project, which can be found here: https://github.com/qinnzou/DeepCrack 
 
