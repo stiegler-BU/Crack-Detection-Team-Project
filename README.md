@@ -4,7 +4,7 @@
 
 To fulfill this mission, we originally aimed to automate a drone to detect cracks on a building and/or roof. However, due to the complexity of such an endeavor and limited time/resources, we scoped our project to enhancing an existing crack detection capability by further training a pre-built model. Our team consisted of BU ECE and SE students with very limited familiarity in machine learning and ML models. Therefore, we took this opportunity to learn from existing projects and try to conduct more of an analytic assessment and comparision of various crack detection capabilities.
 
-**Project Deliverables**: See our Sprint 1 and 2 pptx for overviews of our goals, our milestones, and we also provide a poster which we used at a student project presentation forum held on 8 December 2023 in the Photonics building at Boston University.
+**Project Deliverables**: See our Sprint 1 and 2 pptx for overviews of our project, goals, user stories, milestones, etc. We also provide the poster (poster final.pdf) we created for a student project forum held on 8 December 2023 in the Photonics building at Boston University.
 
 **Capability Users:**
 Architects
@@ -28,6 +28,7 @@ For DeepCrack, you can use the crack_detector.py and crack_detector_v2.py files 
 4. Load files into your preferred environment (we used PyCharm)
 5. Ensure you have the latest torch, Python, etc.
 6. Follow additional setup instructions via the README.md file found in the Yolov5Mode folder.
+7. For DeepCrack, follow the instructions provided on the DeepCrack Github page.
 
 **Datasets:** As noted, we used the images provided in the dataset.zip file. We also used images provided by the DeepCrack project, found here: https://github.com/qinnzou/DeepCrack#download.
 
