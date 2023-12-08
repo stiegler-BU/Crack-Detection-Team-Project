@@ -4,6 +4,8 @@
 
 To fulfill this mission, we originally aimed to automate a drone to detect cracks on a building and/or roof. However, due to the complexity of such an endeavor and limited time/resources, we scoped our project to enhancing an existing crack detection capability by further training a pre-built model. Our team consisted of BU ECE and SE students with very limited familiarity in machine learning and ML models. Therefore, we took this opportunity to learn from existing projects and try to conduct more of an analytic assessment and comparision of various crack detection capabilities.
 
+**Project Deliverables:** See our Sprint 1 and 2 pptx for overviews of our goals, our milestones, and we also provide a poster which we used at a student project presentation forum held on 8 December 2023 in the Photonics building at Boston University.
+
 **Capability Users:**
 Architects
 Construction Workers
