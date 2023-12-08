@@ -17,6 +17,8 @@ Regulatory Entities (Local, State, Federal)
 
 **Secondary Project Analyzed:** While not the primary focus of the project, we did compare our enhanced trained Yolo5 Model with a model trained using the DeepCrack project, which can be found here: https://github.com/qinnzou/DeepCrack 
 
+For DeepCrack, you can use the crack_detector.py and crack_detector_v2.py files to run the DeepCrack model from (found in the DeepCrack project here: [https://github.com/qinnzou/DeepCrack](https://github.com/qinnzou/DeepCrack#pretrained-models))
+
 **Setup instructions:**
 1. Download and install the latest 7-Zip: https://www.7-zip.org/
 2. Download the Yolov5Mode.7z.xxx files, the dataset.zip.xxx, and Dev-20231206T203908Z-001.zip.
