@@ -24,3 +24,6 @@ Regulatory Entities (Local, State, Federal)
 4. Load files into your preferred environment (we used PyCharm)
 5. Ensure you have the latest torch, Python, etc.
 6. Follow additional setup instructions via the README.md file found in the Yolov5Mode folder.
+
+**Datasets:** As noted, we used the images provided in the dataset.zip file. We also used images provided by the DeepCrack project, found here: https://github.com/qinnzou/DeepCrack#download.
+
