@@ -17,3 +17,10 @@ Regulatory Entities (Local, State, Federal)
 
 **Secondary Project Analyzed:** While not the primary focus of the project, we did compare our enhanced trained Yolo5 Model with a model trained using the DeepCrack project, which can be found here: https://github.com/qinnzou/DeepCrack 
 
+**Setup instructions:**
+1. Download and install the latest 7-Zip: https://www.7-zip.org/
+2. Download the Yolov5Mode.7z.xxx files, the dataset.zip.xxx, and Dev-20231206T203908Z-001.zip.
+3. Right click on Yolov5Mode.7z.001 and dataset.zip.001 and click "Combine" to rebuild the Zip file. Extract the respective Yolov5Mode and dataset zip files.
+4. Load files into your preferred environment (we used PyCharm)
+5. Ensure you have the latest torch, Python, etc.
+6. Follow additional setup instructions via the README.md file found in the Yolov5Mode folder.
