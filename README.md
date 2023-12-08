@@ -35,3 +35,25 @@ For DeepCrack, you can use the crack_detector.py and crack_detector_v2.py files 
 **Datasets:** As noted, we used the images provided in the dataset.zip file. We also used images provided by the DeepCrack project, found here: https://github.com/qinnzou/DeepCrack#download.
 
 **License:** The Yolov5 project uses a GNU GENERAL PUBLIC LICENSE. See the LICENSE file for more info. 
+
+**Citation:**
+@article{zou2018deepcrack,
+  title={Deepcrack: Learning Hierarchical Convolutional Features for Crack Detection},
+  author={Zou, Qin and Zhang, Zheng and Li, Qingquan and Qi, Xianbiao and Wang, Qian and Wang, Song},
+  journal={IEEE Transactions on Image Processing},
+  volume={28},
+  number={3},
+  pages={1498--1512},
+  year={2019},
+}
+
+@article{zou2012cracktree,
+  title={CrackTree: Automatic crack detection from pavement images},
+  author={Zou, Qin and Cao, Yu and Li, Qingquan and Mao, Qingzhou and Wang, Song},
+  journal={Pattern Recognition Letters},
+  volume={33},
+  number={3},
+  pages={227--238},
+  year={2012},
+  publisher={Elsevier}
+}
