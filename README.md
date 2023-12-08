@@ -1,5 +1,7 @@
 # Crack-Detection-Team-Project
 
+**Team Members:** Luying Ruan, Jim Stiegler, Hua Tong
+
 **Mission**: The original mission of our project was to enable the Architecture, Engineering, and Construction (AEC) industry to safely and efficiently inspect structures to detect and characterize potential anomalies that require attention.
 
 To fulfill this mission, we originally aimed to automate a drone to detect cracks on a building and/or roof. However, due to the complexity of such an endeavor and limited time/resources, we scoped our project to enhancing an existing crack detection capability by further training a pre-built model. Our team consisted of BU ECE and SE students with very limited familiarity in machine learning and ML models. Therefore, we took this opportunity to learn from existing projects and try to conduct more of an analytic assessment and comparision of various crack detection capabilities.
@@ -32,3 +34,4 @@ For DeepCrack, you can use the crack_detector.py and crack_detector_v2.py files 
 
 **Datasets:** As noted, we used the images provided in the dataset.zip file. We also used images provided by the DeepCrack project, found here: https://github.com/qinnzou/DeepCrack#download.
 
+**License:** The Yolov5 project uses a GNU GENERAL PUBLIC LICENSE. See the LICENSE file for more info. 
